@@ -15,6 +15,8 @@ public class Car {
 	private String brand;
 	private double cost;
 	private String description;
+	
+	//getters and setters
 	public int getId() {
 		return id;
 	}
